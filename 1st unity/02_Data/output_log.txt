@@ -2,23 +2,23 @@ Initialize engine version: 5.4.1f1 (649f48bbbf0f)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics 5000 (ID=0xa26)
-    Vendor:   Intel
-    VRAM:     1136 MB
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.368 seconds
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\yaster\Documents\Unity\1st unity\02_Data\Managed\System.dll (this message is harmless)
-desktop: 2160x1440 59Hz; virtual: 2160x1440 at 0,0
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\yaster\Documents\GitHub\unity1\1st unity\02_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1090 at 0,-10
 <RI> Initializing input.
 <RI> Input initialized.
