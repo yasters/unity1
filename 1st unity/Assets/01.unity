@@ -511,7 +511,7 @@ GameObject:
   - 23: {fileID: 712956125}
   m_Layer: 8
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: pointObj
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -552,7 +552,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 712956124}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -571,7 +571,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 712956124}
   m_LocalRotation: {x: 0.28124762, y: -0, z: -0, w: 0.95963526}
-  m_LocalPosition: {x: 257.5, y: 201, z: 138.9}
+  m_LocalPosition: {x: 257.5, y: 128.7, z: 138.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 32.658, y: 0, z: 0}
   m_Children: []
@@ -729,7 +729,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 815804025}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 278.76492, y: 195.4375, z: 173.8}
+  m_LocalPosition: {x: 278.76492, y: 137.5, z: 173.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -1247,7 +1247,7 @@ GameObject:
   - 23: {fileID: 1361790851}
   m_Layer: 8
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: pointObj
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1307,7 +1307,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1361790850}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 254.1, y: 195.4375, z: 266.8}
+  m_LocalPosition: {x: 254.1, y: 104.9, z: 266.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -1465,7 +1465,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1513843099}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 140.4, y: 192, z: 144.22495}
+  m_LocalPosition: {x: 140.4, y: 127.6, z: 144.22495}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -1607,7 +1607,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1814405053}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 202, y: 192, z: 133.2}
+  m_LocalPosition: {x: 202, y: 104.3, z: 133.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
