@@ -1,0 +1,77 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Fr87S\Documents\unity1\1st unity\t415064_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.762075 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 256c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.013146 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1073.
+Total: 0.757729 ms (FindLiveObjects: 0.069926 ms CreateObjectMapping: 0.052938 ms MarkObjects: 0.298667 ms  DeleteObjects: 0.335407 ms)
+
+pointObj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+pointObj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+pointObj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+pointObj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+pointObj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.862032 ms
+
+Unloading 309 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 4.089290 ms (FindLiveObjects: 0.034765 ms CreateObjectMapping: 0.062814 ms MarkObjects: 0.240197 ms  DeleteObjects: 3.750721 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.463013 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 0.378469 ms (FindLiveObjects: 0.022518 ms CreateObjectMapping: 0.022518 ms MarkObjects: 0.209778 ms  DeleteObjects: 0.123259 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.723754 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1073.
+Total: 0.698865 ms (FindLiveObjects: 0.074666 ms CreateObjectMapping: 0.042666 ms MarkObjects: 0.308543 ms  DeleteObjects: 0.272593 ms)
+
